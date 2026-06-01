@@ -42,6 +42,18 @@ Portfolio/
 * Include a profile picture
 * Add social media links
 
+
+## Live Demo
+
+Visit the website here:
+
+https://GitauLucy.github.io/-My-Personal-Portfolio-Page/
+
+## Technologies Used
+
+* HTML5
+
+
 ## Author
 
 Lucy Gitau
