@@ -47,8 +47,7 @@ Portfolio/
 
 Visit the website here:
 
-https://GitauLucy.github.io/-My-Personal-Portfolio-Page/
-
+ https://gitaulucy.github.io/-My-Personal-Portfolio-Page/
 ## Technologies Used
 
 * HTML5
